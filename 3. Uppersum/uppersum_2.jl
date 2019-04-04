@@ -20,5 +20,5 @@ m
 @time sum(m)
 @time sum(m)
 
-@time uppersum(M)
-@time uppersum(M)
+@time uppersum(m)
+@time uppersum(m)
